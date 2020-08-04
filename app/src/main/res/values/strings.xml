@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android0804</string>
+    <!-- 처음에 한번 호출해서 변경없이 사용할 문자열 중에서 정적으로 변경 가능성이 있는 것은 Java 코드에 문자열 상수로
+     설정하지 말고 별도의 파일에 만들어두고 파일에서 읽는 것이 좋습니다. -->
+    <string name="drawer_open">네비게이션 열기</string>
+    <string name="drawer_close">네비게이션 닫기</string>
+
+</resources>
